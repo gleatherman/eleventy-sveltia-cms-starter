@@ -24,7 +24,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 #### H4 and some code
 
-```text/2-3
+```text
+/2-3
 // this is a command
 function myCommand() {
 	let counter = 0;
